@@ -18,6 +18,6 @@
 
 - SQL - by [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql) 
 
-- Data Analytics  - by [Alex The Analyst]()
+- Data Analytics  - by [Alex The Analyst](https://github.com/Lieu3/AlexTheAnalyst---Bootcamp)
 
 - Python - by [FreeCodeCamp]()
