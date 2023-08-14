@@ -24,6 +24,6 @@
 
 <h2 align="left">My Certifications </h2>
 
-- Data Analytics  - by [Alex The Analyst](https://github.com/Lieu3/AlexTheAnalyst---Bootcamp)
+- [Data Analytics](https://github.com/Lieu3/AlexTheAnalyst---Bootcamp)
 
-- Python - by [FreeCodeCamp](https://www.freecodecamp.org/certification/fcc3620b11b-4b15-4f5d-9a00-57a0c985b570/data-analysis-with-python-v7)
+- [Python](https://www.freecodecamp.org/certification/fcc3620b11b-4b15-4f5d-9a00-57a0c985b570/data-analysis-with-python-v7)
