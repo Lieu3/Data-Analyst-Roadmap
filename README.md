@@ -22,7 +22,7 @@
 
 - Data Analysis with Python - by [FreeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/)
 
-<h2 align="left">My Certifications 📜 🎓 ✔️</h2>
+<h2 align="left">My Certifications </h2>
 
 - Data Analytics  - by [Alex The Analyst](https://github.com/Lieu3/AlexTheAnalyst---Bootcamp)
 
